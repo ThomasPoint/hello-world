@@ -3,3 +3,9 @@ efhgzsghjsngjsngjks
 je suis dans la branch etest 1
 
 commit 2
+
+je suis master mais je ne veux pas être gardée
+
+je suis master à garder
+
+Changement important !!!!

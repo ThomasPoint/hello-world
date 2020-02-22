@@ -2,7 +2,7 @@ efhgzsghjsngjsngjks
 
 je suis dans la branch etest 1
 
-commit 2
+bug lors du commit 2 -- corrigé
 
 ajout d'une autre ligne
 

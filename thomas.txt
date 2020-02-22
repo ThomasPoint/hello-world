@@ -4,7 +4,7 @@ je suis dans la branch etest 1
 
 commit 2
 
-je suis master mais je ne veux pas être gardée
+ajout d'une autre ligne
 
 je suis master à garder
 
